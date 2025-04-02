@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\Desktop\WinSocketChat\WinSocketChat\Source.cpp(59,31): warning C4474: "sprintf_s" : для строки формата передано слишком много аргументов
+C:\Users\User\Desktop\WinSocketChat\WinSocketChat\Source.cpp(59,31): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  WinSocketChat.vcxproj -> C:\Users\User\Desktop\WinSocketChat\x64\Debug\WinSocketChat.exe
